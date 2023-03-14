@@ -32,4 +32,4 @@ How should we write code that implements the 3 core concepts of Reacts?
 	}
 	```
 
-![[Pasted image 20220811193147.png]]
+![[4_Three_Principles-image-1.png]]
